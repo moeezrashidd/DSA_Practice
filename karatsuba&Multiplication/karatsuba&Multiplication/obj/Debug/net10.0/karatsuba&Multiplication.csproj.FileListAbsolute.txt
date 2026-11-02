@@ -1,0 +1,14 @@
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\bin\Debug\net10.0\karatsuba&Multiplication.exe
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\bin\Debug\net10.0\karatsuba&Multiplication.deps.json
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\bin\Debug\net10.0\karatsuba&Multiplication.runtimeconfig.json
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\bin\Debug\net10.0\karatsuba&Multiplication.dll
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\bin\Debug\net10.0\karatsuba&Multiplication.pdb
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.AssemblyInfoInputs.cache
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.AssemblyInfo.cs
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.dll
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\refint\karatsuba&Multiplication.dll
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.pdb
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\karatsuba&Multiplication.genruntimeconfig.cache
+C:\Users\Moeez Rashid\Documents\DSA\lab\karatsuba&Multiplication\karatsuba&Multiplication\obj\Debug\net10.0\ref\karatsuba&Multiplication.dll
